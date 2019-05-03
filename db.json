@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "jokes": [
     {
       "id": 1,
       "title": "hello"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
