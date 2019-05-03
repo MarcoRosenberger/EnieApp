@@ -1,8 +1,29 @@
 {
-  "jokes": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ]
+	"jokes": [
+		{
+			"id": 1,
+			"joke": "Eine Schildkröte wird von drei Schnecken überfallen\nPolizist: Was ist passiert?\nSchildkröte: Weiß nicht, ging alles zu schnell!",
+			"answer": ""
+		},
+		{
+			"id": 2,
+			"joke": "Na, Tomi fragt der Papa. Was bekommt denn dein kleiner Bruder zum Geburtstag? Weiß noch nicht, sagt Tom. Letztes Jahr hat er jedenfalls Windpocken von mir bekommen.",
+			"answer": ""
+		},
+		{
+			"id": 3,
+			"joke": "Zwei Kühe unterhalten sich: \"Warum ist Rita so mager geworden?\" \"Weil sie abergläubisch ist. Sie frisst nur noch vierblättrigen Klee!\"",
+			"answer": ""
+		},
+		{
+			"id": 4,
+			"joke": "Zwei Ziegen unterhalten sich. Die Eine: Magst Du tanzen gehen?. Die andere: Nein, ich hab kein Bock!",
+			"answer": ""
+		},
+		{
+			"id": 5,
+			"joke": "Zwei Skelette wollen tanzen gehen. Sie steigen auf ein Motorrad. Oh, beinahe hätte ich was vergessen, sagt das eine und holt seinen Helm.",
+			"answer": ""
+		}
+		]
 }
